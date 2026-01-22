@@ -28,7 +28,7 @@ A few links to help you understand our product.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/zachariaswik"><img src="docs/pics/ErikProfile.png" width="100px;" alt=""/><br /><sub><b>Erik</b></sub></a><br /><a href="#SoftwareDevelopment-Fernando" title="Software Development">💻💼</a></td>
+    <td align="center"><a href="https://github.com/zachariaswik"><img src="https://avatars.githubusercontent.com/u/45999030?v=4" width="100px;" alt=""/><br /><sub><b>Erik</b></sub></a><br /><a href="#SoftwareDevelopment-Fernando" title="Software Development">💻💼</a></td>
   </tr>
 </table>
 <br />
