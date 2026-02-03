@@ -12,18 +12,6 @@ Cenote is a digital environment with a design that fosters a positive learning e
 
 <hr />
 
-A few links to help you understand our product.
-
-- [Project Overview](docs/product_overview.md)
-- [Architecture](docs/product_overview.md)
-- [API Design Package](docs/API.md)
-- [Data Storage Model](docs/DataStorageeModel.md)
-- [Implementation Teams](docs/ImplementationTeams.md)
-
-<br />
-
-<hr />
-
 ### Core Team
 
 <table>
@@ -54,6 +42,3 @@ A few links to help you understand our product.
 
 <hr />
 
-### Want to follow our journey?
-
-Sign up to our newsletter here: [Placeholder]
