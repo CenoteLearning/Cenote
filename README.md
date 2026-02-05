@@ -30,7 +30,6 @@ Cenote is a digital environment with a design that fosters a positive learning e
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/fdgbatarse1"><img src="https://avatars.githubusercontent.com/u/132849563?v=4" width="100px;" alt=""/><br /><sub><b>Fernando</b></sub></a><br /><a href="#SoftwareDevelopment-Fernando" title="Software Development">💻</a></td>
     <td align="center"><a href="https://github.com/sito8943"><img src="https://avatars.githubusercontent.com/u/40501794?v=4" width="100px;" alt=""/><br /><sub><b>Carlos</b></sub></a><br /><a href="#SoftwareDevelopment-Carlos" title="Software Development">💻</a></td>
   </tr>
 </table>
