@@ -4,9 +4,11 @@
   </picture>
 </p>
 
-<p align="center">
-Cenote is a digital environment with a design that fosters a positive learning experience for school students, while strictly blocking all tempting distractions they are normally faced with on their personal computers.
-</p>
+
+Students are constantly exposed to unproductive temptations with unrestricted browsing and desktop applications on their general-purpose computers while parents and educators rely on fragile, by-passable controls. 
+
+Cenote solves this by replacing the traditional desktop with a distraction-free learning environment that supports deep focus and controlled access to resources.
+
 
 <br />
 
