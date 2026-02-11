@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Lerna" src="logos/logo11.png" width="480">
+  <source srcset="logos/logo11.png" media="(prefers-color-scheme: dark)"> <source srcset="logos/logo12.png" media="(prefers-color-scheme: light)"> <img src="logos/logo12.png" alt="CENOTE logo">
   </picture>
 </p>
 
