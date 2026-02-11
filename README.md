@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Lerna" src="logos/logo10.png" width="480">
+    <img alt="Lerna" src="logos/logo11.png" width="480">
   </picture>
 </p>
 
